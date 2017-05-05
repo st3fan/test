@@ -1,5 +1,4 @@
 test
 ====
 
-Test. Lala.
-
+Test. Lala. Why is GPG so hard.
